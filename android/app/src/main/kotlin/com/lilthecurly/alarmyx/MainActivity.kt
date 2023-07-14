@@ -1,0 +1,6 @@
+package com.lilthecurly.alarmyx
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
